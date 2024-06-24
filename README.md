@@ -1,5 +1,5 @@
 # MEDICARE
-AVISHKAR Project
+PROJECT
 ![login](https://user-images.githubusercontent.com/81457490/147487613-2fdca379-ec55-426b-a4e2-d2616a64d883.jpg)
 ![login](https://user-images.githubusercontent.com/81457490/147487624-1a44a731-6d31-4064-8d79-fd519a187b01.jpg)
 ![login](https://user-images.githubusercontent.com/81457490/147487618-a74777e8-07e6-40ca-b44b-ab3182884a8d.jpg)
